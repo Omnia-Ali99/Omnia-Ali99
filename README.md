@@ -1,9 +1,9 @@
 
 <h2 align="center">Hi 👋, I'm Omnia Ali</h2>
-<p>🐘 PHP & Laravel Developer</p>
+<p align="center">🐘 PHP & Laravel Developer</p>
 
-<p>🌱 Always learning and improving.</p>
-<p>🚀 Turning ideas into reality, one line at a time.</p>
+<p align="center">🌱 Always learning and improving.</p>
+<p align="center">🚀 Turning ideas into reality, one line at a time.</p>
 
 ---
 
