@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi 👋, I'm Omnia Ali
+<h1 align="center">Hi 👋, I'm Omnia Ali</h1>
 
 🐘 Building web applications with PHP & Laravel.
 
