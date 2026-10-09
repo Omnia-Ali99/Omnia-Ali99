@@ -1,15 +1,15 @@
 
 <h2 align="center">Hi 👋, I'm Omnia Ali</h2>
-<p align="center">🐘 PHP & Laravel Developer</p>
+<p>🐘 PHP & Laravel Developer</p>
 
-<p align="center">🌱 Always learning and improving.</p>
-<p align="center">🚀 Turning ideas into reality, one line at a time.</p>
+<p>🌱 Always learning and improving.</p>
+<p>🚀 Turning ideas into reality, one line at a time.</p>
 
 ---
 
 ### 📫 Connect with me
 
-<p align="">
+<p align="center">
   <a href="https://www.linkedin.com/in/omnia-ali-958721240/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
