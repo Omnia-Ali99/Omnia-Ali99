@@ -1,4 +1,3 @@
-### 💫 About Me
 
 <h2 align="center">Hi 👋, I'm Omnia Ali</h2>
 <p align="center">🐘 PHP & Laravel Developer</p>
@@ -10,7 +9,7 @@
 
 ### 📫 Connect with me
 
-<p align="center">
+<p align="">
   <a href="https://www.linkedin.com/in/omnia-ali-958721240/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
