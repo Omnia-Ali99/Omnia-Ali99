@@ -1,15 +1,14 @@
-# 💫 About Me:
+# 💫 About Me
 
 <h1 align="center">Hi 👋, I'm Omnia Ali</h1>
+<p align="center">🐘 PHP & Laravel Developer</p>
 
-🐘 Building web applications with PHP & Laravel.
+<p align="center">🌱 Always learning and improving.</p>
+<p align="center">🚀 Turning ideas into reality, one line at a time.</p>
 
-🌱 Always learning and improving.
+---
 
-🚀 Turning ideas into reality, one line at a time.
-
-
-### Connect with me :
+### 📫 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omnia-ali-958721240/">
@@ -23,18 +22,23 @@
   </a>
 </p>
 
+---
 
-# 💻 Tech Stack:
+<h2 align="center">💻 Tech Stack</h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Omnia-Ali99\&icon=0\&color=0)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omnia-Ali99&icon=0&color=0" alt="Profile Views"/>
+</p>
