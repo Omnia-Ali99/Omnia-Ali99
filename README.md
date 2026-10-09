@@ -8,7 +8,8 @@
 
 🚀 Turning ideas into reality, one line at a time.
 
-### 📫 Connect with me
+
+### Connect with me :
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omnia-ali-958721240/">
@@ -21,6 +22,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 # 💻 Tech Stack:
 
