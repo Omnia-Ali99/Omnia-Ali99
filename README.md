@@ -1,6 +1,6 @@
-# 💫 About Me
+### 💫 About Me
 
-<h1 align="center">Hi 👋, I'm Omnia Ali</h1>
+<h2 align="center">Hi 👋, I'm Omnia Ali</h2>
 <p align="center">🐘 PHP & Laravel Developer</p>
 
 <p align="center">🌱 Always learning and improving.</p>
