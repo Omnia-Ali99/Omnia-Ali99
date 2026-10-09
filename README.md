@@ -8,9 +8,7 @@
 
 🚀 Turning ideas into reality, one line at a time.
 
-## 🌐 Socials:
-
-## 🌐 Socials:
+### 📫 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omnia-ali-958721240/">
