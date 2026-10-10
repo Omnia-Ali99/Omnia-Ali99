@@ -38,6 +38,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omnia-Ali99&icon=0&color=0" alt="Profile Views"/>
-</p>
